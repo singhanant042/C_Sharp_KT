@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-21-class\bin\Debug\T-21-class.exe.config
+C:\Users\sinanant\C#\T-21-class\bin\Debug\T-21-class.exe
+C:\Users\sinanant\C#\T-21-class\bin\Debug\T-21-class.pdb
+C:\Users\sinanant\C#\T-21-class\obj\Debug\T-21-class.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-21-class\obj\Debug\T-21-class.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-21-class\obj\Debug\T-21-class.exe
+C:\Users\sinanant\C#\T-21-class\obj\Debug\T-21-class.pdb

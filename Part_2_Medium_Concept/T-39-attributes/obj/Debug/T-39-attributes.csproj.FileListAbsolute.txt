@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-39-attributes\bin\Debug\T-39-attributes.exe.config
+C:\Users\sinanant\C#\T-39-attributes\bin\Debug\T-39-attributes.exe
+C:\Users\sinanant\C#\T-39-attributes\bin\Debug\T-39-attributes.pdb
+C:\Users\sinanant\C#\T-39-attributes\obj\Debug\T-39-attributes.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-39-attributes\obj\Debug\T-39-attributes.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-39-attributes\obj\Debug\T-39-attributes.exe
+C:\Users\sinanant\C#\T-39-attributes\obj\Debug\T-39-attributes.pdb

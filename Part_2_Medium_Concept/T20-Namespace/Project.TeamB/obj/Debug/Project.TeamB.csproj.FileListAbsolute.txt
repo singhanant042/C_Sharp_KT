@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\Project.TeamB\obj\Debug\Project.TeamB.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\Project.TeamB\obj\Debug\Project.TeamB.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\Project.TeamB\bin\Debug\Project.TeamB.exe.config
+C:\Users\sinanant\C#\Project.TeamB\bin\Debug\Project.TeamB.exe
+C:\Users\sinanant\C#\Project.TeamB\bin\Debug\Project.TeamB.pdb
+C:\Users\sinanant\C#\Project.TeamB\obj\Debug\Project.TeamB.exe
+C:\Users\sinanant\C#\Project.TeamB\obj\Debug\Project.TeamB.pdb

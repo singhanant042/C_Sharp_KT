@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-41-Threadstart\bin\Debug\T-41-Threadstart.exe.config
+C:\Users\sinanant\C#\T-41-Threadstart\bin\Debug\T-41-Threadstart.exe
+C:\Users\sinanant\C#\T-41-Threadstart\bin\Debug\T-41-Threadstart.pdb
+C:\Users\sinanant\C#\T-41-Threadstart\obj\Debug\T-41-Threadstart.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-41-Threadstart\obj\Debug\T-41-Threadstart.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-41-Threadstart\obj\Debug\T-41-Threadstart.exe
+C:\Users\sinanant\C#\T-41-Threadstart\obj\Debug\T-41-Threadstart.pdb

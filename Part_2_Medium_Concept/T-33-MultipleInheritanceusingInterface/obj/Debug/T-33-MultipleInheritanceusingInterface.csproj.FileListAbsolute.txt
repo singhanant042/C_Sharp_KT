@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\bin\Debug\T-33-MultipleInheritanceusingInterface.exe.config
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\bin\Debug\T-33-MultipleInheritanceusingInterface.exe
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\bin\Debug\T-33-MultipleInheritanceusingInterface.pdb
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\obj\Debug\T-33-MultipleInheritanceusingInterface.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\obj\Debug\T-33-MultipleInheritanceusingInterface.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\obj\Debug\T-33-MultipleInheritanceusingInterface.exe
+C:\Users\sinanant\C#\T-33-MultipleInheritanceusingInterface\obj\Debug\T-33-MultipleInheritanceusingInterface.pdb

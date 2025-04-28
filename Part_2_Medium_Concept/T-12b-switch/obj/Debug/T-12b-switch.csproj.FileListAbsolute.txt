@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-12b-switch\bin\Debug\T-12b-switch.exe.config
+C:\Users\sinanant\C#\T-12b-switch\bin\Debug\T-12b-switch.exe
+C:\Users\sinanant\C#\T-12b-switch\bin\Debug\T-12b-switch.pdb
+C:\Users\sinanant\C#\T-12b-switch\obj\Debug\T-12b-switch.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-12b-switch\obj\Debug\T-12b-switch.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-12b-switch\obj\Debug\T-12b-switch.exe
+C:\Users\sinanant\C#\T-12b-switch\obj\Debug\T-12b-switch.pdb

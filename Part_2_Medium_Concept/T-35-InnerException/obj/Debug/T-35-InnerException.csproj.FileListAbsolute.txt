@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-35-InnerException\bin\Debug\T-35-InnerException.exe.config
+C:\Users\sinanant\C#\T-35-InnerException\bin\Debug\T-35-InnerException.exe
+C:\Users\sinanant\C#\T-35-InnerException\bin\Debug\T-35-InnerException.pdb
+C:\Users\sinanant\C#\T-35-InnerException\obj\Debug\T-35-InnerException.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-35-InnerException\obj\Debug\T-35-InnerException.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-35-InnerException\obj\Debug\T-35-InnerException.exe
+C:\Users\sinanant\C#\T-35-InnerException\obj\Debug\T-35-InnerException.pdb

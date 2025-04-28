@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-33Abstract\bin\Debug\T-33Abstract.exe.config
+C:\Users\sinanant\C#\T-33Abstract\bin\Debug\T-33Abstract.exe
+C:\Users\sinanant\C#\T-33Abstract\bin\Debug\T-33Abstract.pdb
+C:\Users\sinanant\C#\T-33Abstract\obj\Debug\T-33Abstract.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-33Abstract\obj\Debug\T-33Abstract.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-33Abstract\obj\Debug\T-33Abstract.exe
+C:\Users\sinanant\C#\T-33Abstract\obj\Debug\T-33Abstract.pdb

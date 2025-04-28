@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-37-Enums\bin\Debug\T-37-Enums.exe.config
+C:\Users\sinanant\C#\T-37-Enums\bin\Debug\T-37-Enums.exe
+C:\Users\sinanant\C#\T-37-Enums\bin\Debug\T-37-Enums.pdb
+C:\Users\sinanant\C#\T-37-Enums\obj\Debug\T-37-Enums.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-37-Enums\obj\Debug\T-37-Enums.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-37-Enums\obj\Debug\T-37-Enums.exe
+C:\Users\sinanant\C#\T-37-Enums\obj\Debug\T-37-Enums.pdb

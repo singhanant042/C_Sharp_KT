@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-13-whileloop\bin\Debug\T-13-whileloop.exe.config
+C:\Users\sinanant\C#\T-13-whileloop\bin\Debug\T-13-whileloop.exe
+C:\Users\sinanant\C#\T-13-whileloop\bin\Debug\T-13-whileloop.pdb
+C:\Users\sinanant\C#\T-13-whileloop\obj\Debug\T-13-whileloop.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-13-whileloop\obj\Debug\T-13-whileloop.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-13-whileloop\obj\Debug\T-13-whileloop.exe
+C:\Users\sinanant\C#\T-13-whileloop\obj\Debug\T-13-whileloop.pdb

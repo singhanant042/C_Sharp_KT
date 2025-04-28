@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-11-ifelse\bin\Debug\T-11-ifelse.exe.config
+C:\Users\sinanant\C#\T-11-ifelse\bin\Debug\T-11-ifelse.exe
+C:\Users\sinanant\C#\T-11-ifelse\bin\Debug\T-11-ifelse.pdb
+C:\Users\sinanant\C#\T-11-ifelse\obj\Debug\T-11-ifelse.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-11-ifelse\obj\Debug\T-11-ifelse.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-11-ifelse\obj\Debug\T-11-ifelse.exe
+C:\Users\sinanant\C#\T-11-ifelse\obj\Debug\T-11-ifelse.pdb

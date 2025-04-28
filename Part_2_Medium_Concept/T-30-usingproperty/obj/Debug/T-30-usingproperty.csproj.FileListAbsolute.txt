@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-30-usingproperty\bin\Debug\T-30-usingproperty.exe.config
+C:\Users\sinanant\C#\T-30-usingproperty\bin\Debug\T-30-usingproperty.exe
+C:\Users\sinanant\C#\T-30-usingproperty\bin\Debug\T-30-usingproperty.pdb
+C:\Users\sinanant\C#\T-30-usingproperty\obj\Debug\T-30-usingproperty.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-30-usingproperty\obj\Debug\T-30-usingproperty.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-30-usingproperty\obj\Debug\T-30-usingproperty.exe
+C:\Users\sinanant\C#\T-30-usingproperty\obj\Debug\T-30-usingproperty.pdb

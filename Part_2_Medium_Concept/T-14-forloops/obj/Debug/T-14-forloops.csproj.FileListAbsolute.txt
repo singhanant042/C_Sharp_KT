@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-14-forloops\bin\Debug\T-14-forloops.exe.config
+C:\Users\sinanant\C#\T-14-forloops\bin\Debug\T-14-forloops.exe
+C:\Users\sinanant\C#\T-14-forloops\bin\Debug\T-14-forloops.pdb
+C:\Users\sinanant\C#\T-14-forloops\obj\Debug\T-14-forloops.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-14-forloops\obj\Debug\T-14-forloops.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-14-forloops\obj\Debug\T-14-forloops.exe
+C:\Users\sinanant\C#\T-14-forloops\obj\Debug\T-14-forloops.pdb

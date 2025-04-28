@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-40-Multithreads\bin\Debug\T-40-Multithreads.exe.config
+C:\Users\sinanant\C#\T-40-Multithreads\bin\Debug\T-40-Multithreads.exe
+C:\Users\sinanant\C#\T-40-Multithreads\bin\Debug\T-40-Multithreads.pdb
+C:\Users\sinanant\C#\T-40-Multithreads\obj\Debug\T-40-Multithreads.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-40-Multithreads\obj\Debug\T-40-Multithreads.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-40-Multithreads\obj\Debug\T-40-Multithreads.exe
+C:\Users\sinanant\C#\T-40-Multithreads\obj\Debug\T-40-Multithreads.pdb

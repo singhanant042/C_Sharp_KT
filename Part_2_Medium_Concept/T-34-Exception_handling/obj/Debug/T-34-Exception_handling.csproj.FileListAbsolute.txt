@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-34-Exception_handling\bin\Debug\T-34-Exception_handling.exe.config
+C:\Users\sinanant\C#\T-34-Exception_handling\bin\Debug\T-34-Exception_handling.exe
+C:\Users\sinanant\C#\T-34-Exception_handling\bin\Debug\T-34-Exception_handling.pdb
+C:\Users\sinanant\C#\T-34-Exception_handling\obj\Debug\T-34-Exception_handling.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-34-Exception_handling\obj\Debug\T-34-Exception_handling.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-34-Exception_handling\obj\Debug\T-34-Exception_handling.exe
+C:\Users\sinanant\C#\T-34-Exception_handling\obj\Debug\T-34-Exception_handling.pdb

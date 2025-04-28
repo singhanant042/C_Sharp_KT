@@ -1,0 +1,14 @@
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\T20-Namespace.exe.config
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\T20-Namespace.exe
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\T20-Namespace.pdb
+C:\Users\sinanant\C#\T20-Namespace\obj\Debug\T20-Namespace.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T20-Namespace\obj\Debug\T20-Namespace.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T20-Namespace\obj\Debug\T20-Namespace.exe
+C:\Users\sinanant\C#\T20-Namespace\obj\Debug\T20-Namespace.pdb
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamA.exe
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamB.exe
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamA.pdb
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamA.exe.config
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamB.pdb
+C:\Users\sinanant\C#\T20-Namespace\bin\Debug\Project.TeamB.exe.config
+C:\Users\sinanant\C#\T20-Namespace\obj\Debug\T20-Namespace.csproj.CopyComplete

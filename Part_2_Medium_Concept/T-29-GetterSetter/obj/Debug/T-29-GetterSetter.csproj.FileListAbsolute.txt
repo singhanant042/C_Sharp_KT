@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-29-GetterSetter\bin\Debug\T-29-GetterSetter.exe.config
+C:\Users\sinanant\C#\T-29-GetterSetter\bin\Debug\T-29-GetterSetter.exe
+C:\Users\sinanant\C#\T-29-GetterSetter\bin\Debug\T-29-GetterSetter.pdb
+C:\Users\sinanant\C#\T-29-GetterSetter\obj\Debug\T-29-GetterSetter.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-29-GetterSetter\obj\Debug\T-29-GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-29-GetterSetter\obj\Debug\T-29-GetterSetter.exe
+C:\Users\sinanant\C#\T-29-GetterSetter\obj\Debug\T-29-GetterSetter.pdb

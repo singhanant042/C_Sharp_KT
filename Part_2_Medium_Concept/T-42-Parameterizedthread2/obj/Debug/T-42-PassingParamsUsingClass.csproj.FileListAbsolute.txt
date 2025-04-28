@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\bin\Debug\T-42-Parameterizedthread2.exe.config
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\bin\Debug\T-42-Parameterizedthread2.exe
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\bin\Debug\T-42-Parameterizedthread2.pdb
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\obj\Debug\T-42-PassingParamsUsingClass.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\obj\Debug\T-42-PassingParamsUsingClass.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\obj\Debug\T-42-Parameterizedthread2.exe
+C:\Users\sinanant\C#\T-42-Parameterizedthread2\obj\Debug\T-42-Parameterizedthread2.pdb

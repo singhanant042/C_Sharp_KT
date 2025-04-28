@@ -1,0 +1,14 @@
+C:\Users\sinanant\C#\T-33-inheritance\bin\Debug\T-33-inheritance.exe.config
+C:\Users\sinanant\C#\T-33-inheritance\bin\Debug\T-33-inheritance.exe
+C:\Users\sinanant\C#\T-33-inheritance\bin\Debug\T-33-inheritance.pdb
+C:\Users\sinanant\C#\T-33-inheritance\obj\Debug\T-33-inheritance.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-33-inheritance\obj\Debug\T-33-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-33-inheritance\obj\Debug\T-33-inheritance.exe
+C:\Users\sinanant\C#\T-33-inheritance\obj\Debug\T-33-inheritance.pdb
+C:\Users\sinanant\C#\T-23-inheritance\bin\Debug\T-33-inheritance.exe.config
+C:\Users\sinanant\C#\T-23-inheritance\bin\Debug\T-33-inheritance.exe
+C:\Users\sinanant\C#\T-23-inheritance\bin\Debug\T-33-inheritance.pdb
+C:\Users\sinanant\C#\T-23-inheritance\obj\Debug\T-33-inheritance.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-23-inheritance\obj\Debug\T-33-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-23-inheritance\obj\Debug\T-33-inheritance.exe
+C:\Users\sinanant\C#\T-23-inheritance\obj\Debug\T-33-inheritance.pdb

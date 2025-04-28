@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-32-ExplicitInterface\bin\Debug\T-32-ExplicitInterface.exe.config
+C:\Users\sinanant\C#\T-32-ExplicitInterface\bin\Debug\T-32-ExplicitInterface.exe
+C:\Users\sinanant\C#\T-32-ExplicitInterface\bin\Debug\T-32-ExplicitInterface.pdb
+C:\Users\sinanant\C#\T-32-ExplicitInterface\obj\Debug\T-32-ExplicitInterface.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-32-ExplicitInterface\obj\Debug\T-32-ExplicitInterface.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-32-ExplicitInterface\obj\Debug\T-32-ExplicitInterface.exe
+C:\Users\sinanant\C#\T-32-ExplicitInterface\obj\Debug\T-32-ExplicitInterface.pdb

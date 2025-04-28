@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-25-Polymorhpism\bin\Debug\T-25-Polymorhpism.exe.config
+C:\Users\sinanant\C#\T-25-Polymorhpism\bin\Debug\T-25-Polymorhpism.exe
+C:\Users\sinanant\C#\T-25-Polymorhpism\bin\Debug\T-25-Polymorhpism.pdb
+C:\Users\sinanant\C#\T-25-Polymorhpism\obj\Debug\T-25-Polymorhpism.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-25-Polymorhpism\obj\Debug\T-25-Polymorhpism.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-25-Polymorhpism\obj\Debug\T-25-Polymorhpism.exe
+C:\Users\sinanant\C#\T-25-Polymorhpism\obj\Debug\T-25-Polymorhpism.pdb

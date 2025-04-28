@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-22-staticinstanceclass\bin\Debug\T-22-staticinstanceclass.exe.config
+C:\Users\sinanant\C#\T-22-staticinstanceclass\bin\Debug\T-22-staticinstanceclass.exe
+C:\Users\sinanant\C#\T-22-staticinstanceclass\bin\Debug\T-22-staticinstanceclass.pdb
+C:\Users\sinanant\C#\T-22-staticinstanceclass\obj\Debug\T-22-staticinstanceclass.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-22-staticinstanceclass\obj\Debug\T-22-staticinstanceclass.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-22-staticinstanceclass\obj\Debug\T-22-staticinstanceclass.exe
+C:\Users\sinanant\C#\T-22-staticinstanceclass\obj\Debug\T-22-staticinstanceclass.pdb

@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-18-methodparameters\bin\Debug\T-18-methodparameters.exe.config
+C:\Users\sinanant\C#\T-18-methodparameters\bin\Debug\T-18-methodparameters.exe
+C:\Users\sinanant\C#\T-18-methodparameters\bin\Debug\T-18-methodparameters.pdb
+C:\Users\sinanant\C#\T-18-methodparameters\obj\Debug\T-18-methodparameters.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-18-methodparameters\obj\Debug\T-18-methodparameters.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-18-methodparameters\obj\Debug\T-18-methodparameters.exe
+C:\Users\sinanant\C#\T-18-methodparameters\obj\Debug\T-18-methodparameters.pdb

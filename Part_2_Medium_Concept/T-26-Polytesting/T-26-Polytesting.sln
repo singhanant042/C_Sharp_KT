@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.35728.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-26-Polytesting", "T-26-Polytesting.csproj", "{36D4C589-B549-48AB-BB44-D1DB83E6A7D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T-25-Polymorhpism", "..\T-25-Polymorhpism\T-25-Polymorhpism.csproj", "{01CB54E4-EBA8-459A-BEC3-D63E14A2FF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D4C589-B549-48AB-BB44-D1DB83E6A7D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D4C589-B549-48AB-BB44-D1DB83E6A7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D4C589-B549-48AB-BB44-D1DB83E6A7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D4C589-B549-48AB-BB44-D1DB83E6A7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CB54E4-EBA8-459A-BEC3-D63E14A2FF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CB54E4-EBA8-459A-BEC3-D63E14A2FF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CB54E4-EBA8-459A-BEC3-D63E14A2FF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CB54E4-EBA8-459A-BEC3-D63E14A2FF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7A078F-750D-44EC-87B5-E7F59E59DA7E}
+	EndGlobalSection
+EndGlobal

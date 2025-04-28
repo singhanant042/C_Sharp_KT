@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-17-methods\bin\Debug\T-17-methods.exe.config
+C:\Users\sinanant\C#\T-17-methods\bin\Debug\T-17-methods.exe
+C:\Users\sinanant\C#\T-17-methods\bin\Debug\T-17-methods.pdb
+C:\Users\sinanant\C#\T-17-methods\obj\Debug\T-17-methods.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-17-methods\obj\Debug\T-17-methods.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-17-methods\obj\Debug\T-17-methods.exe
+C:\Users\sinanant\C#\T-17-methods\obj\Debug\T-17-methods.pdb

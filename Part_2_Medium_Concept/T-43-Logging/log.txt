@@ -1,0 +1,90 @@
+_________
+ Date:2025-03-26 10:01:17,490  
+ Type:INFO  
+ APP:Log4net_.Program 
+ Message:info 
+ 
+_________
+ Date:2025-03-26 10:01:17,512  
+ Type:WARN  
+ APP:Log4net_.Program 
+ Message:Warning 
+ 
+_________
+ Date:2025-03-26 10:42:38,249  
+ Type:INFO  
+ APP:Log4net_.Program 
+ Message:info 
+ 
+_________
+ Date:2025-03-26 10:42:38,265  
+ Type:WARN  
+ APP:Log4net_.Program 
+ Message:Warning 
+ 
+_________
+ Date:2025-03-26 10:42:38,265  
+ Type:ERROR  
+ APP:Log4net_.Program 
+ Message:Error 
+ 
+_________
+ Date:2025-03-26 10:52:18,186  
+ Type:INFO  
+ APP:Log4net_.Program 
+ Message:info 
+ 
+_________
+ Date:2025-03-26 10:52:18,227  
+ Type:WARN  
+ APP:Log4net_.Program 
+ Message:Warning 
+ 
+_________
+ Date:2025-03-26 10:52:18,227  
+ Type:ERROR  
+ APP:Log4net_.Program 
+ Message:Error 
+ 
+_________
+ Date:2025-03-26 10:52:46,709  
+ Type:INFO  
+ APP:Log4net_.Program 
+ Message:info 
+ 
+_________
+ Date:2025-03-26 10:52:46,737  
+ Type:WARN  
+ APP:Log4net_.Program 
+ Message:Warning 
+ 
+_________
+ Date:2025-03-26 10:52:46,737  
+ Type:ERROR  
+ APP:Log4net_.Program 
+ Message:Error 
+ 
+_________
+ Date:2025-03-26 10:57:03,736  
+ Type:INFO  
+ APP:Log4net_.Program 
+ Message:info 
+ 
+_________
+ Date:2025-03-26 10:57:03,751  
+ Type:WARN  
+ APP:Log4net_.Program 
+ Message:Warning 
+ 
+_________
+ Date:2025-03-26 10:57:03,751  
+ Type:ERROR  
+ APP:Log4net_.Program 
+ Message:Error 
+ 
+_________
+ Date:2025-03-28 12:25:53,812  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is=4257.4952097778 
+ 

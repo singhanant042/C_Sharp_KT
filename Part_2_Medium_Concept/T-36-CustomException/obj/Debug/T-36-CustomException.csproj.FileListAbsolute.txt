@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-36-CustomException\bin\Debug\T-36-CustomException.exe.config
+C:\Users\sinanant\C#\T-36-CustomException\bin\Debug\T-36-CustomException.exe
+C:\Users\sinanant\C#\T-36-CustomException\bin\Debug\T-36-CustomException.pdb
+C:\Users\sinanant\C#\T-36-CustomException\obj\Debug\T-36-CustomException.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-36-CustomException\obj\Debug\T-36-CustomException.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-36-CustomException\obj\Debug\T-36-CustomException.exe
+C:\Users\sinanant\C#\T-36-CustomException\obj\Debug\T-36-CustomException.pdb

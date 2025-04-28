@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\T-31-Inrterface\bin\Debug\T-31-Inrterface.exe.config
+C:\Users\sinanant\C#\T-31-Inrterface\bin\Debug\T-31-Inrterface.exe
+C:\Users\sinanant\C#\T-31-Inrterface\bin\Debug\T-31-Inrterface.pdb
+C:\Users\sinanant\C#\T-31-Inrterface\obj\Debug\T-31-Inrterface.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\T-31-Inrterface\obj\Debug\T-31-Inrterface.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\T-31-Inrterface\obj\Debug\T-31-Inrterface.exe
+C:\Users\sinanant\C#\T-31-Inrterface\obj\Debug\T-31-Inrterface.pdb

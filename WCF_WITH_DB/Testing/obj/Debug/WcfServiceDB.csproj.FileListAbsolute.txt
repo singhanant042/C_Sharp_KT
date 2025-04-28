@@ -1,0 +1,7 @@
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\bin\WcfServiceDB.dll.config
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\bin\WcfServiceDB.dll
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\bin\WcfServiceDB.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\obj\Debug\WcfServiceDB.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\obj\Debug\WcfServiceDB.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\obj\Debug\WcfServiceDB.dll
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\WcfServiceDB\obj\Debug\WcfServiceDB.pdb

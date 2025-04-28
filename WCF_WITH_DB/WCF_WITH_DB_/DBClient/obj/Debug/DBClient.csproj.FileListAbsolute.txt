@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\bin\Debug\DBClient.exe.config
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\bin\Debug\DBClient.exe
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\bin\Debug\DBClient.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.Form1.resources
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.Properties.Resources.resources
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.exe
+C:\Users\sinanant\C_sharp\WCF\WCF WITH DB\DB\DBClient\obj\Debug\DBClient.pdb

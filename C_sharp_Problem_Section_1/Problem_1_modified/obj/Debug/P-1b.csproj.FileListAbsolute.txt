@@ -1,0 +1,7 @@
+C:\Users\sinanant\C#\Sheet Problem\P-1b\bin\Debug\P-1b.exe.config
+C:\Users\sinanant\C#\Sheet Problem\P-1b\bin\Debug\P-1b.exe
+C:\Users\sinanant\C#\Sheet Problem\P-1b\bin\Debug\P-1b.pdb
+C:\Users\sinanant\C#\Sheet Problem\P-1b\obj\Debug\P-1b.csproj.AssemblyReference.cache
+C:\Users\sinanant\C#\Sheet Problem\P-1b\obj\Debug\P-1b.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C#\Sheet Problem\P-1b\obj\Debug\P-1b.exe
+C:\Users\sinanant\C#\Sheet Problem\P-1b\obj\Debug\P-1b.pdb

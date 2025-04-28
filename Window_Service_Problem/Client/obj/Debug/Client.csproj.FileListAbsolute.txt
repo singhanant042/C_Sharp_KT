@@ -1,0 +1,15 @@
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Client.exe.config
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Client.exe
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Client.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.Form1.resources
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.exe
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Timer.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Timer.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Event_Log.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Client\bin\Debug\Event_Log.pdb

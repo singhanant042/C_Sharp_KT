@@ -1,0 +1,12 @@
+﻿Uninstalling assembly 'C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.InstallLog
+   assemblypath = C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll assembly.
+Uninstalling assembly 'C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.InstallLog
+   assemblypath = C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll assembly.

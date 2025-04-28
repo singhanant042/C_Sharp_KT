@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\bin\Debug\Console_host.exe.config
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\bin\Debug\Console_host.exe
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\bin\Debug\Console_host.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\bin\Debug\Service.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\bin\Debug\Service.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\obj\Debug\Console_host.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\obj\Debug\Console_host.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\obj\Debug\Console_host.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\obj\Debug\Console_host.exe
+C:\Users\sinanant\C_sharp\Window Service Problem\Console_host\obj\Debug\Console_host.pdb

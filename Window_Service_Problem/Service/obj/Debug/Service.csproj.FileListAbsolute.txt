@@ -1,0 +1,6 @@
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\bin\Debug\Service.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\bin\Debug\Service.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Service\obj\Debug\Service.pdb

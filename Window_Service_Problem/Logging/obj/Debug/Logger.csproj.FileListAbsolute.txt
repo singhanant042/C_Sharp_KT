@@ -1,0 +1,6 @@
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\obj\Debug\Logger.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\bin\Debug\Timer.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\bin\Debug\Timer.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\obj\Debug\Timer.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Timer\obj\Debug\Timer.pdb

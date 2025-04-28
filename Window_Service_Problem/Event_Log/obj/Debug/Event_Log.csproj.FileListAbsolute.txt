@@ -1,0 +1,6 @@
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\bin\Debug\Event_Log.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\bin\Debug\Event_Log.pdb
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\obj\Debug\Event_Log.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\obj\Debug\Event_Log.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\obj\Debug\Event_Log.dll
+C:\Users\sinanant\C_sharp\Window Service Problem\Event_Log\obj\Debug\Event_Log.pdb

@@ -1,7 +1,0 @@
-C:\Users\sinanant\C#\T-5-13-02\bin\Debug\T-5-13-02.exe.config
-C:\Users\sinanant\C#\T-5-13-02\bin\Debug\T-5-13-02.exe
-C:\Users\sinanant\C#\T-5-13-02\bin\Debug\T-5-13-02.pdb
-C:\Users\sinanant\C#\T-5-13-02\obj\Debug\T-5-13-02.csproj.AssemblyReference.cache
-C:\Users\sinanant\C#\T-5-13-02\obj\Debug\T-5-13-02.csproj.CoreCompileInputs.cache
-C:\Users\sinanant\C#\T-5-13-02\obj\Debug\T-5-13-02.exe
-C:\Users\sinanant\C#\T-5-13-02\obj\Debug\T-5-13-02.pdb

@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\windowservice\bin\Debug\windowservice.exe.config
+C:\Users\sinanant\C_sharp\windowservice\bin\Debug\windowservice.exe
+C:\Users\sinanant\C_sharp\windowservice\bin\Debug\windowservice.pdb
+C:\Users\sinanant\C_sharp\windowservice\bin\Debug\Topshelf.dll
+C:\Users\sinanant\C_sharp\windowservice\bin\Debug\Topshelf.xml
+C:\Users\sinanant\C_sharp\windowservice\obj\Debug\windowservice.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\windowservice\obj\Debug\windowservice.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\windowservice\obj\Debug\windowservice.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\windowservice\obj\Debug\windowservice.exe
+C:\Users\sinanant\C_sharp\windowservice\obj\Debug\windowservice.pdb

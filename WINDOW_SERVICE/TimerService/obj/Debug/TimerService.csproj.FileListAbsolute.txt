@@ -1,0 +1,6 @@
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\bin\Debug\TimerService.dll
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\bin\Debug\TimerService.pdb
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\obj\Debug\TimerService.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\obj\Debug\TimerService.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\obj\Debug\TimerService.dll
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\TimerService\obj\Debug\TimerService.pdb

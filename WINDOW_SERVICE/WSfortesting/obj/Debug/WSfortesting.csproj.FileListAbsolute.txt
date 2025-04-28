@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\bin\Debug\WSfortesting.exe.config
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\bin\Debug\WSfortesting.exe
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\bin\Debug\WSfortesting.pdb
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.ProjectInstaller.resources
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.TestingWS.resources
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.exe
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WSfortesting\obj\Debug\WSfortesting.pdb

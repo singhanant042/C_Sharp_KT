@@ -1,0 +1,13 @@
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\bin\Debug\WindowsService_2.exe.config
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\bin\Debug\WindowsService_2.exe
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\bin\Debug\WindowsService_2.pdb
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.ProjectInstaller.resources
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.TickCounterService.resources
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.exe
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.pdb
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\bin\Debug\TimerService.dll
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\bin\Debug\TimerService.pdb
+C:\Users\sinanant\C_sharp\WINDOW SERVICE\WindowsService_2\obj\Debug\WindowsService_2.csproj.CopyComplete

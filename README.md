@@ -9,3 +9,5 @@ Contains solution of problems in section 1("POC Abstract Class &Interfaces with 
 Contains solution of problems in section 2("POC Multi Threading with logging framework") of excel sheet
 # Window_service_problem
 contains solution of window service problems in excel shit,since the problem is related so implemented all under same service
+# WCF_WITH_DB
+This folders contains wcf service with db interaction for performing CRUD operation

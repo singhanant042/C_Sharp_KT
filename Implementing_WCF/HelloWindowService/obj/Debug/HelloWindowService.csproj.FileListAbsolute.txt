@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\bin\Debug\HelloWindowService.exe.config
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\bin\Debug\HelloWindowService.exe
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\bin\Debug\HelloWindowService.pdb
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.Form1.resources
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.Properties.Resources.resources
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.exe
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloWindowService\obj\Debug\HelloWindowService.pdb

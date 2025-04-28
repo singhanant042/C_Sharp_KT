@@ -1,0 +1,11 @@
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\bin\Debug\HelloService.dll.config
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloServiceHost\obj\Debug\HelloServiceHost.pdb

@@ -1,0 +1,7 @@
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\bin\Debug\HelloService.dll.config
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\bin\Debug\HelloService.dll
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\bin\Debug\HelloService.pdb
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\obj\Debug\HelloService.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\obj\Debug\HelloService.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\obj\Debug\HelloService.dll
+C:\Users\sinanant\C_sharp\WCF\Implementing WCF\HelloService\obj\Debug\HelloService.pdb

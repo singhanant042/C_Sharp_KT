@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="NetTcpBinding_IService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <msb:BinaryEncoding xmlns:msb="http://schemas.microsoft.com/ws/06/2004/mspolicy/netbinary1" />
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <msf:WindowsTransportSecurity xmlns:msf="http://schemas.microsoft.com/ws/2006/05/framing/policy">
+                  <msf:ProtectionLevel>EncryptAndSign</msf:ProtectionLevel>
+                </msf:WindowsTransportSecurity>
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService_Write_file_InputMessage">
+    <wsdl:part name="parameters" element="tns:Write_file" />
+  </wsdl:message>
+  <wsdl:message name="IService_Write_file_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Write_fileResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_get_content_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_content" />
+  </wsdl:message>
+  <wsdl:message name="IService_get_content_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_contentResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_get_path_InputMessage">
+    <wsdl:part name="parameters" element="tns:get_path" />
+  </wsdl:message>
+  <wsdl:message name="IService_get_path_OutputMessage">
+    <wsdl:part name="parameters" element="tns:get_pathResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_Read_file_InputMessage">
+    <wsdl:part name="parameters" element="tns:Read_file" />
+  </wsdl:message>
+  <wsdl:message name="IService_Read_file_OutputMessage">
+    <wsdl:part name="parameters" element="tns:Read_fileResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService">
+    <wsdl:operation name="Write_file">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/Write_file" message="tns:IService_Write_file_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/Write_fileResponse" message="tns:IService_Write_file_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_content">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/get_content" message="tns:IService_get_content_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/get_contentResponse" message="tns:IService_get_content_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="get_path">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/get_path" message="tns:IService_get_path_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/get_pathResponse" message="tns:IService_get_path_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Read_file">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/Read_file" message="tns:IService_Read_file_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/Read_fileResponse" message="tns:IService_Read_file_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="NetTcpBinding_IService" type="tns:IService">
+    <wsp:PolicyReference URI="#NetTcpBinding_IService_policy" />
+    <soap12:binding transport="http://schemas.microsoft.com/soap/tcp" />
+    <wsdl:operation name="Write_file">
+      <soap12:operation soapAction="http://tempuri.org/IService/Write_file" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_content">
+      <soap12:operation soapAction="http://tempuri.org/IService/get_content" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_path">
+      <soap12:operation soapAction="http://tempuri.org/IService/get_path" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Read_file">
+      <soap12:operation soapAction="http://tempuri.org/IService/Read_file" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="NetTcpBinding_IService" binding="tns:NetTcpBinding_IService">
+      <soap12:address location="net.tcp://localhost:8090/Service" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>net.tcp://localhost:8090/Service</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Upn>ASIAPACIFIC\sinanant</Upn>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

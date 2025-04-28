@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\WCF Problem\Host\bin\Debug\Host.exe.config
+C:\Users\sinanant\C_sharp\WCF Problem\Host\bin\Debug\Host.exe
+C:\Users\sinanant\C_sharp\WCF Problem\Host\bin\Debug\Host.pdb
+C:\Users\sinanant\C_sharp\WCF Problem\Host\bin\Debug\WcfApp.dll
+C:\Users\sinanant\C_sharp\WCF Problem\Host\bin\Debug\WcfApp.pdb
+C:\Users\sinanant\C_sharp\WCF Problem\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF Problem\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF Problem\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\WCF Problem\Host\obj\Debug\Host.exe
+C:\Users\sinanant\C_sharp\WCF Problem\Host\obj\Debug\Host.pdb

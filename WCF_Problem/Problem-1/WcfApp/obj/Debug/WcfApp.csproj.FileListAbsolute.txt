@@ -1,0 +1,6 @@
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\bin\Debug\WcfApp.dll
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\bin\Debug\WcfApp.pdb
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\obj\Debug\WcfApp.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\obj\Debug\WcfApp.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\obj\Debug\WcfApp.dll
+C:\Users\sinanant\C_sharp\WCF Problem\WcfApp\obj\Debug\WcfApp.pdb

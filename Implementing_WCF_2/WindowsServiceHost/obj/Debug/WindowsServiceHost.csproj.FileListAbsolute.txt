@@ -1,0 +1,12 @@
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\bin\Debug\HelloService.dll
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\bin\Debug\HelloService.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb

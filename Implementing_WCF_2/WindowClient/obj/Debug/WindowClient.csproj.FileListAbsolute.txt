@@ -1,0 +1,10 @@
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\bin\Debug\WindowClient.exe.config
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\bin\Debug\WindowClient.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\bin\Debug\WindowClient.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.Form1.resources
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.Properties.Resources.resources
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.pdb

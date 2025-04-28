@@ -1,0 +1,13 @@
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\bin\Debug\WindowsHost.exe.config
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\bin\Debug\WindowsHost.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\bin\Debug\WindowsHost.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\bin\Debug\HelloService.dll
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\bin\Debug\HelloService.pdb
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.Form1.resources
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.Properties.Resources.resources
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.csproj.GenerateResource.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.csproj.CopyComplete
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.exe
+C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowsHost\obj\Debug\WindowsHost.pdb

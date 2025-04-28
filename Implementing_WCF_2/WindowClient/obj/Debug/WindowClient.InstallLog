@@ -1,0 +1,6 @@
+﻿Uninstalling assembly 'C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.InstallLog
+   assemblypath = C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\sinanant\C_sharp\WCF\WCF_2\WindowClient\obj\Debug\WindowClient.exe assembly.
